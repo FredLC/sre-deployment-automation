@@ -1,0 +1,23 @@
+╰─ kgp -A                                                                                                                                                                          ─╯
+NAMESPACE     NAME                          READY   STATUS    RESTARTS   AGE
+kube-system   aws-node-k79kl                2/2     Running   0          28m
+kube-system   aws-node-lvs88                2/2     Running   0          28m
+kube-system   coredns-6b94694fcb-2jhm2      1/1     Running   0          29m
+kube-system   coredns-6b94694fcb-ld5t7      1/1     Running   0          29m
+kube-system   kube-proxy-fz86p              1/1     Running   0          28m
+kube-system   kube-proxy-prkf2              1/1     Running   0          28m
+udacity       blue-68f654b6f9-4xzm9         1/1     Running   0          15m
+udacity       blue-68f654b6f9-dpvxh         1/1     Running   0          15m
+udacity       blue-68f654b6f9-vmf8m         1/1     Running   0          15m
+udacity       canary-v1-58cb5c49d-869p2     1/1     Running   0          15m
+udacity       canary-v1-58cb5c49d-ggm28     1/1     Running   0          15m
+udacity       canary-v1-58cb5c49d-qf8kp     1/1     Running   0          15m
+udacity       canary-v1-58cb5c49d-r8252     1/1     Running   0          15m
+udacity       canary-v1-58cb5c49d-xd6w5     1/1     Running   0          15m
+udacity       canary-v2-55647dff9d-7jn2k    1/1     Running   0          4m56s
+udacity       canary-v2-55647dff9d-cqxzt    1/1     Running   0          5m17s
+udacity       canary-v2-55647dff9d-kdgwb    1/1     Running   0          10m
+udacity       canary-v2-55647dff9d-ntgxg    1/1     Running   0          5m56s
+udacity       canary-v2-55647dff9d-z6v9n    1/1     Running   0          5m32s
+udacity       debug                         1/1     Running   0          3m11s
+udacity       hello-world-844c8ccbb-t25fr   1/1     Running   0          15m
