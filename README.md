@@ -4,8 +4,6 @@ This project simulates a real-world production environment where undocumented mi
 
 The focus was on **incident response, deployment strategies, and observability**, applying SRE and DevOps practices to restore reliability and improve system resilience.
 
----
-
 ## Overview
 
 Worked in a Kubernetes-based environment to diagnose and resolve application issues while implementing modern deployment and automation practices using:
@@ -14,8 +12,6 @@ Worked in a Kubernetes-based environment to diagnose and resolve application iss
 - Terraform (Infrastructure as Code)
 - CI/CD pipelines
 - Prometheus and Grafana (observability)
-
----
 
 ## Key Features
 
@@ -39,8 +35,6 @@ Analyzed resource usage to identify inefficient workloads and optimize system pe
 ### System Documentation
 Created architecture diagrams to improve system visibility and streamline onboarding for future developers.
 
----
-
 ## Outcome
 
 - Restored **application availability and reliability**  
@@ -48,8 +42,6 @@ Created architecture diagrams to improve system visibility and streamline onboar
 - Improved operational efficiency with **CI/CD automation**  
 - Enabled proactive issue detection with **observability tooling**  
 - Delivered a **well-documented, production-ready Kubernetes environment**
-
----
 
 ## Tech Stack
 
